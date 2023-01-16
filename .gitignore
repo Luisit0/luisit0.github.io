@@ -8,6 +8,7 @@
 !.versionrc.json
 !.stylelintrc.json
 Gemfile.lock
+notas.md
 
 # bundler cache
 _site
